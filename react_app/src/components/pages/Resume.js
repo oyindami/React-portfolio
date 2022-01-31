@@ -6,9 +6,7 @@ export default function Resume() {
       <h1>My Resume</h1>
       <p>
         <li>
-          <a href="file:///Users/oyindamolapeterson/Downloads/oyin%20resume%20copy.pdf">
-            resume
-          </a>
+          <a href="../Assets/oyin-resume-pdf.pdf download">resume</a>
         </li>
       </p>
     </div>
